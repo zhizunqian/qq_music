@@ -2714,7 +2714,7 @@ to {
 	position:absolute;
 	opacity:.2;
 	filter:alpha(opacity=20);
-	z-index:12;
+	z-index:10;
 	text-indent:-99em;
 	overflow:hidden;
 	top:50%;
