@@ -115,7 +115,7 @@ document.addEventListener("readystatechange",function(){
              	tiao.style.width=l+"%";
                   if(audio.ended){
                         if(curbfms==SXBF){
-                              if(currentsongindex!==yinyueku.length-1){
+                              if(currentsongindex!==yinyueku.leftngth-1){
                                     nextsong();
                               }
                         }
